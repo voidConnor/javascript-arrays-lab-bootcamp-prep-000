@@ -1,5 +1,4 @@
 
-var kittens = ["Milo","Otis","Garfield"] //define your array here
+var kittens.push("Ralph") = ["Milo","Otis","Garfield"] //define your array here
 
 // Add your functions and code here
-kittens = [...kittens, "Ralph"]
